@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Naman Vijay 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Aanchal Sharma 
 </h1>
 
 Strong in design and integration with intuitive problem-solving
@@ -12,13 +12,13 @@ Engineering.
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naman-vijay-574758200/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:namanvijay814@gmail.com) [![Years Badge](https://badges.pufler.dev/years/Naman814?style=for-the-badge)](https://github.com/Naman814) [![Repos Badge](https://badges.pufler.dev/repos/Naman814?style=for-the-badge)](https://github.com/Naman814) 
-    [![Visits Badge](https://badges.pufler.dev/visits/Naman814/Naman814?style=for-the-badge)](https://github.com/Naman814)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aanchal-sharma-9785291b2/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:sharma206aa@gmail.com) [![Years Badge](https://badges.pufler.dev/years/Aanchal2320?style=for-the-badge)](https://github.com/Aanchal2320) [![Repos Badge](https://badges.pufler.dev/repos/Aanchal2320?style=for-the-badge)](https://github.com/Aanchal2320) 
+    [![Visits Badge](https://badges.pufler.dev/visits/Aanchal2320/Aanchal2320?style=for-the-badge)](https://github.com/Aanchal2320)
 
 <hr>
 
-![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman814&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman814&theme=dracula&layout=compact)
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Aanchal2320&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanchal2320&theme=dracula&layout=compact)
 
  <hr>
 
