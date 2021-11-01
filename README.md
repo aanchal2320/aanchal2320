@@ -2,12 +2,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Aanchal Sharma 
 </h1>
 
-Strong in design and integration with intuitive problem-solving
-skills.
-Passionate about implementing and launching new projects.
-Ability to translate business requirements into technical solutions.
-I am a Junior @Geu pursuing Computer Science and
-Engineering.
+Hey! I am Aanchal currently pursuing Bachelors in Computer Science and Engineering.I am hardworking, open-minded and decisive.
+A team worker with social and flexible nature. I am always anxious to learn new things and develop my technological skills.
 <hr>
 
 <div align="center">
