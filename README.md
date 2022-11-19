@@ -8,8 +8,7 @@ A team worker with social and flexible nature. I am always anxious to learn new 
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aanchal-sharma-9785291b2/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:sharma206aa@gmail.com) [![Years Badge](https://badges.pufler.dev/years/Aanchal2320?style=for-the-badge)](https://github.com/Aanchal2320) [![Repos Badge](https://badges.pufler.dev/repos/Aanchal2320?style=for-the-badge)](https://github.com/Aanchal2320) 
-    [![Visits Badge](https://badges.pufler.dev/visits/Aanchal2320/Aanchal2320?style=for-the-badge)](https://github.com/Aanchal2320)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aanchal-sharma-9785291b2/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:sharma206aa@gmail.com) ]
 
 <hr>
 
