@@ -2,8 +2,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Aanchal Sharma 
 </h1>
 
-Hey! I am Aanchal currently pursuing Bachelors in Computer Science and Engineering.I am hardworking, open-minded and decisive.
-A team worker with social and flexible nature. I am always anxious to learn new things and develop my technological skills.
+I am a BTech graduate in Computer Science and Engineering with a strong proficiency in data structures, algorithms, and other core computer science courses. I am skilled in C++ and Java, with good knowledge of React.js and the MERN stack. My solid foundation allows me to easily adapt to any technology. I am seeking an opportunity to further explore and apply the ideas gained from my academic and real-world experiences, aiming to become more effective and productive for my company and to advance my professional growth. I am available for immediate joining.
 <hr>
 
 <div align="center">
